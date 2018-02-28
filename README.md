@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Just another repository. I am new to programming
